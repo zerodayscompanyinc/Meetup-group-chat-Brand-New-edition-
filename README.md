@@ -9,7 +9,7 @@ A single-file HTML chat application that delivers Discord-class messaging featur
 # link URL here:
 # click now 
 
-https://meetupchop.vercel.app/
+https://meetupchats.vercel.app/
 
 ---
 
